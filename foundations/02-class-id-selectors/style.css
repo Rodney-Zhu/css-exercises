@@ -1,4 +1,21 @@
-p {
+.odd {
     background-color: #dc86af90;
     font-family: Verdana, "DejaVu San",Sans-Serif;
+
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsla(137, 68%, 54%, 0.565);
+    
+}
+
+
+.unique3 {
+    font-size: 24px;
+    font-weight: 700;
 }
