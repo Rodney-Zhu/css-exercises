@@ -11,11 +11,10 @@
 
 #four {
     background-color: hsla(137, 68%, 54%, 0.565);
-    
+    font-weight: 700;
 }
 
 
-.unique3 {
+.adjust-font-size {
     font-size: 24px;
-    font-weight: 700;
 }
